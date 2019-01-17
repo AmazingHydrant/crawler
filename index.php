@@ -1,5 +1,5 @@
 <?php
-require_once 'crawlerClass.php';
+require_once 'Crawler.class.php';
 //header("Content-Type:text/html; charset=big5");
 
 $crawler = new Crawler;
